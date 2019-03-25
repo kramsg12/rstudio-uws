@@ -1,0 +1,1 @@
+read.delim('iris_raw.txt', header = FALSE, sep = ",", allowEscapes = FALSE, fill = TRUE, col.names = c('Sepal.Length','Sepal.Width','Petal.Length', 'Petal.Width','species'))
